@@ -5,7 +5,7 @@
 
 # Poison Dart Frog Clean-label Backdoor Attack
 
-This is the official implementation of the paper: Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate Using Only One Piece of Information
+This is the official implementation of the paper: Poison Dart Frog: A Clean-Label Attack with Low Poisoning Rate and High Attack Success Rate in the Absence of Training Data
 
 
 ## Requirements
